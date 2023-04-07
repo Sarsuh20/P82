@@ -1,3 +1,4 @@
+
 h1
 {
 	color: red; 
@@ -5,14 +6,14 @@ h1
 }
 .body_backgorund
 {
-	background-image:url(bg1.jpg);
+	background-image: url("https://docs.google.com/uc?export=download&id=12bFDv365aKfYuynKBSvoBLsLixl99IS5");
 	background-position:center;
 	background-size:cover;
 }
 
 #myCanvas
 {
-background-color:#fdfdfd;
+background-color:white;
 border-style:ridge;
 border-width:10px;
 }
